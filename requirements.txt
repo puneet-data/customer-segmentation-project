@@ -1,0 +1,21 @@
+# Core data manipulation
+pandas==1.5.3
+numpy==1.24.3
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Jupyter notebook support
+notebook==6.5.4
+ipykernel==6.22.0
+
+# Optional: Power BI CSV export support (if automated)
+openpyxl==3.1.2
+
+# Optional: PCA and silhouette plotting enhancements
+yellowbrick==1.5
