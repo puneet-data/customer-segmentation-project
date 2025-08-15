@@ -94,7 +94,7 @@ This dashboard presents KPIs, RFM-based segment visuals, geographic revenue brea
 
 ##  Author
 
-**Puneet Singh**  
+**Puneet Saini**  
 Aspiring Data Analyst | Python, SQL, Power BI | Machine Learning & Business Intelligence Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/puneet471/) | [Portfolio](https://github.com/Puneet0123/Data_project/tree/main)
 
